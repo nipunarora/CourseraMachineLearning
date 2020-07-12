@@ -3,7 +3,7 @@
 This page continas all my coursera machine learning courses and resources :book: by [Prof. Andrew Ng](http://www.andrewng.org/) :man:
 
 # Table of Contents
-1. [Breif Intro](#breif-intro)
+1. [Brief Intro](#brief-intro)
 2. [Video lectures Index](#video-lectures-index)
 3. [Programming Exercise Tutorials](#programming-exercise-tutorials)
 4. [Programming Exercise Test Cases](#programming-exercise-test-cases)
@@ -13,7 +13,7 @@ This page continas all my coursera machine learning courses and resources :book:
 8. [Online E-Books](#online-e-books)
 9. [Aditional Information](#aditional-information)
 
-## Breif Intro
+## Brief Intro
 
 The most of the course talking about **hypothesis function** and minimising **cost funtions**
 
